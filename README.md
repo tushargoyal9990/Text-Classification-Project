@@ -31,7 +31,7 @@ For example, following is an article belonging to sci.electronics class:
 
 ![alt text](https://github.com/tushargoyal9990/Text-Classification-Project/blob/main/Images/Sample%20Article.PNG)
 
-70% of the data i.e. 12000 articles are used for training purpose and 30% data i.e. 6000 articles are used for testing purpose.
+70% of the data i.e. 14000 articles are used for training purpose and 30% data i.e. 6000 articles are used for testing purpose.
 
 
 ## Methodology
